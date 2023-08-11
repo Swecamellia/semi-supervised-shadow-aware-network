@@ -43,6 +43,7 @@ manually annotated by experienced radiologists.
 
  # Inference
   Results Obtained on Multi Structure Cardiac and Thyroid Ultrasound Datasets
+  ![picture](https://github.com/Swecamellia/semi-supervised-shadow-aware-network/blob/master/figs/result2.png)
   
   
      
